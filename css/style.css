@@ -1,0 +1,17 @@
+
+
+.container, .container-fluid {
+ padding-right: 15px;
+ padding-left: 15px;
+ background-color: #F0FFF0;
+}
+
+.row {
+	margin-bottom: 20px;
+}
+
+
+button {
+	text-align: center;
+}
+

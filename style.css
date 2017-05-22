@@ -1,0 +1,21 @@
+
+
+.container, .container-fluid {
+ padding-right: 15px;
+ padding-left: 15px;
+ background-color: #9AC0CD;
+}
+
+
+
+form {
+	text-align: left;
+}
+
+button {
+	text-align: center;
+}
+
+#search {
+	width: 350px;
+}
